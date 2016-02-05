@@ -365,7 +365,7 @@
         <members>Volunteers_Settings__c</members>
         <name>CustomObject</name>
     </types>
-    <types>
+    <!--<types>
         <members>Campaign-en_US</members>
         <members>Campaign-es</members>
         <members>Campaign-fr</members>
@@ -394,7 +394,7 @@
         <members>Volunteers_Settings__c-es</members>
         <members>Volunteers_Settings__c-fr</members>
         <name>CustomObjectTranslation</name>
-    </types>
+    </types>-->
     <types>
         <members>About_Volunteers</members>
         <members>Find_Volunteers</members>
