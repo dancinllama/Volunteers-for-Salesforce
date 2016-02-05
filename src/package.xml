@@ -551,12 +551,14 @@
         <members>wtooltip</members>
         <name>StaticResource</name>
     </types>
+    <!--
     <types>
         <members>en_US</members>
         <members>es</members>
         <members>fr</members>
         <name>Translations</name>
     </types>
+    -->
     <types>
         <members>Job_Recurrence_Schedule__c.JRS_Days_Of_Week_Required</members>
         <members>Job_Recurrence_Schedule__c.JRS_Weekly_Occurrence_Required</members>
