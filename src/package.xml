@@ -502,7 +502,7 @@
         <members>Campaign.Volunteers_Campaign</members>
         <name>RecordType</name>
     </types>
-    <types>
+    <!--<types>
         <members>Volunteer_Reports</members>
         <members>Volunteer_Reports/Active_Volunteers</members>
         <members>Volunteer_Reports/Available_Volunteer_Jobs</members>
@@ -535,7 +535,7 @@
         <members>Volunteer_Reports/Volunteers_by_Skill</members>
         <members>Volunteer_Reports/Volunteers_with_any_Volunteer_Status</members>
         <name>Report</name>
-    </types>
+    </types>-->
     <types>
         <members>Accounts</members>
         <members>Volunteer_Campaigns</members>
