@@ -406,12 +406,12 @@
         <members>Volunteers_Wizard</members>
         <name>CustomTab</name>
     </types>
-    <types>
+    <!--<types>
         <members>Volunteer_Dashboards</members>
         <members>Volunteer_Dashboards/Panel_de_Voluntarios</members>
         <members>Volunteer_Dashboards/Volunteers_Dashboard2</members>
         <name>Dashboard</name>
-    </types>
+    </types>-->
     <types>
         <members>Volunteers_Documents</members>
         <members>Volunteers_Documents/JobCalendarCSS_css.css</members>
